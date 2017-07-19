@@ -1,0 +1,108 @@
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - ##eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
+header {
+  background-color: #ff8523;
+  padding: 80px;
+}
+
+#site_header {
+  padding: 20px;
+}
+
+
+
+ .main_navigation a {
+  background-color: #ff8523;
+  padding: 5px 50px 5px 50px;
+  border-style: solid;
+  border-width: 40px;
+  border-color: #fff;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 10px;
+  margin: 0px;
+  border-width: 1px;
+}
+
+
+
+h2 {
+  color: #1fabe5;
+}
+
+section p a {
+  color:#1fabe5
+}
+
+table {
+  border-collapse: collapse;
+  font-weight: bold;
+  width: 1150px;
+  margin-left: 20px
+
+}
+
+thead {
+  background-color: #1fabe5;
+  color: white;
+  padding: 10px;
+}
+table, th, td {
+    border: 1px solid #1fabe5;
+}
+
+td {
+  padding: 10px;
+}
+
+table tbody tr td img {
+  padding: 10px;
+}
+
+
+
+form {
+  background-color: #dddddd;
+  padding: 20px
+
+}
+
+.name {
+  background-color: #ff8523;
+  padding: 25px;
+  border-radus: 10px;
+  margin-top: 8px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.city_container {
+  font: bold;
+  margin-top: 8px;
+  margin-bottom: 20px;
+}
+
+#bio {
+  margin-top: 8px;
+  width: 1150px;
+}
+
+#submit_button {
+  background-color: #1fabe5;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
